@@ -8,7 +8,8 @@
 
 ---
 
-Install Packages and Files Run "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal <br> Run App run this "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal
+Install Packages and Files Run "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal <br> Run App run this "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal <br> ![Version](https://img.shields.io/badge/macOS-11%2B-white?style=for-the-badge&logo=apple) <br>
+![Chip](https://img.shields.io/badge/Chip-Intel_%7C_Apple_Silicon-gray?style=for-the-badge)
 
 Thank you for using this project 😀
 

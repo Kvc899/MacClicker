@@ -8,12 +8,8 @@
 
 ---
 
-## 🛠️ Installation & Usage
+Install Packages and Files Run "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal 
+Run App run this "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal
 
-Follow these two steps. You only need to do Step 1 once.
+Thank you for using this project 😀
 
-### 1️⃣ Step 1: Install (Do this ONCE)
-Open Terminal and paste this command to download the app to your computer:
-
-```bash
-git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)

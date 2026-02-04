@@ -8,8 +8,7 @@
 
 ---
 
-Install Packages and Files Run "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal 
-Run App run this "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal
+Install Packages and Files Run "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal <br> Run App run this "git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git)" in your terminal
 
 Thank you for using this project 😀
 

@@ -10,6 +10,7 @@
 
 ---
 Requirment Python 3+<br>Please Download from the latest release from<br>{ https://www.python.org/downloads/macos/ }<br>
+
 Install Packages and Files Run { git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git) } in your terminal <br> Run App run this { cd MacClicker && python3 clicker.py } in your terminal 
 
 Thank you for using this project 😀

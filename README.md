@@ -31,7 +31,12 @@ git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/M
  <br>
 cd MacClicker && python3 clicker.py
 <br>
-### 1. Keyboard Shortcuts
+### 2. Update
+To Update the project please use <br>{ git config pull.rebase false
+git pull origin main }<br> then when this pops up on your screen click ESC key then type { :wq } and your update is done
+<img width="1024" height="629" alt="image" src="https://github.com/user-attachments/assets/1e10b074-aaa8-4012-82c8-9df3ba51d88d" /><br>
+
+### 3. Keyboard Shortcuts
 ↑ Up Arrow Increase Speed of clicks by 5 cps (Max 100 cps)<br>
 ↓ Down Arrow Decrease Speed of clicks by 5 cps (Min 1 cps)<br>
 Command+Q Quit Application<br>

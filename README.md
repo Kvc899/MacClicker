@@ -6,7 +6,7 @@
 ![Version](https://img.shields.io/badge/macOS-11%2B-white?style=for-the-badge&logo=apple) 
 ![Chip](https://img.shields.io/badge/Chip-Intel_%7C_Apple_Silicon-gray?style=for-the-badge)
 
-**MacClicker** is a professional-grade auto clicker built specifically for macOS. , a high-precision engine capable of **100 Clicks Per Second**, and advanced safety protocols.
+**MacClicker** is a professional-grade auto clicker built specifically for macOS. <br>A high-precision engine capable of **100 Clicks Per Second**, and advanced safety protocols.
 
 ---
 Requirment Python 3+<br>Please Download from the latest release from<br>{ https://www.python.org/downloads/macos/ }<br>

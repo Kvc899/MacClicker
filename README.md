@@ -11,10 +11,21 @@
 ---
 Requirment Python 3+<br>Please Download from the latest release from<br>{ https://www.python.org/downloads/macos/ }<br>
 
-Install Packages and Files Run { git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git) } in your terminal <br> Run App run this { cd MacClicker && python3 clicker.py } in your terminal<br>To Update the project please use { git config pull.rebase false
-git pull origin main } then when this blob:https://gemini.google.com/3906b168-5095-4d8a-9351-fbd827182aae<img width="1024" height="629" alt="image" src="https://github.com/user-attachments/assets/1e10b074-aaa8-4012-82c8-9df3ba51d88d" />
-<img width="1024" height="629" alt="image" src="https://github.com/user-attachments/assets/1e10b074-aaa8-4012-82c8-9df3ba51d88d" />
+#  Install and Run
 
+Install Packages and Files Run { git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git) } in your terminal <br> Run App run this { cd MacClicker && python3 clicker.py } in your terminal
+# Update 
+
+<br>To Update the project please use <br>{ git config pull.rebase false
+git pull origin main }<br> then when this pops up on your screen click ESC key then type { :wp } and your update is done
+<img width="1024" height="629" alt="image" src="https://github.com/user-attachments/assets/1e10b074-aaa8-4012-82c8-9df3ba51d88d" /><br>
+
+# Keyboard Shortcuts
+
+Key,Action
+↑ (Up Arrow),Increase Speed by 5 CPS (Max 100)
+↓ (Down Arrow),Decrease Speed by 5 CPS (Min 1)
+Command + Q,Force Quit the application immediately
 
 Thank you for using this project 😀
 

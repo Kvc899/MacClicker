@@ -9,7 +9,7 @@
 **MacClicker** is a professional-grade auto clicker built specifically for macOS. Unlike basic clickers, this tool features a **"Liquid Glass" HUD** that looks like a native Apple app, a high-precision engine capable of **100 Clicks Per Second**, and advanced safety protocols.
 
 ---
-
+Requirment Python 3+<br>Please Download from the latest release from<br>{ https://www.python.org/downloads/macos/ }
 Install Packages and Files Run { git clone [https://github.com/Kvc899/MacClicker.git](https://github.com/Kvc899/MacClicker.git) } in your terminal <br> Run App run this { cd MacClicker && python3 clicker.py } in your terminal 
 
 Thank you for using this project 😀
